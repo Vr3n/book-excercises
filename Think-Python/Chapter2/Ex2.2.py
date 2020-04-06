@@ -31,4 +31,4 @@ d = discount(cover_price, discount_percentage)
 wp = wholesale_price(d, number_of_books)
 
 print(f" The discounted price is {d}")
-print(f"The wholesale price of the book is {wp}")
+print(f"The wholesale price of the book is {wp}") 
